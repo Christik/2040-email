@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap");
+
+.body, .table, .table-row, .table-cell { margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-collapse: collapse; border: 0 none; border-spacing: 0; }
+
+.body { background-color: #171717; }
+.table { }
+.table_section { width: 100%; }
+.table-cell { vertical-align: top; }
+.table-cell_content { padding-left: 20px; padding-right: 20px; }
+.table-cell_list-bullet { padding-top: 14px; }
+.img { display: block; border: 0 none; line-height:100%; outline:none; text-decoration:none; }
+.p { font-family: Montserrat, Verdana, Geneva, sans-serif; color: #ffffff; font-size: 20px; line-height: 36px; letter-spacing: .04em; }
+.btn { font-family: Montserrat, Verdana, Geneva, sans-serif; color: #ffffff; display: block; width: 100%; text-align: center; background-color: #1375f8; height: 60px; line-height: 60px; border-radius: 30px 30px 30px 30px; font-size: 20px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; text-decoration: none; border: 0 none; white-space: nowrap; }
+.color-blue { color: #1375f8 !important; }
+.color-yellow { color: #ffc600 !important; }
+.color-red { color: #ff0000 !important; }
+.color-white { color: #ffffff !important; }
+
+.link { color: #ffffff !important; text-decoration: underline !important; font-size: inherit !important; font-family: Montserrat, Verdana, Geneva, sans-serif !important; font-weight: normal !important; line-height: inherit !important; }
+
+.button { width: 380px; margin: 0; border: solid 3px #ffffff; }
+.button__text,
+.button__icon { height: 74px; vertical-align: middle; }
+.button__text { text-align: left; font-family: Montserrat, Verdana, Geneva, sans-serif; color: #ffffff; font-size: 14px; line-height: 20px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; }
+.button__text__link { display: block; height: 60px; color: #ffffff; text-decoration: none; padding-top: 14px; padding-left: 15px; padding-right: 15px; }
+.button__icon { width: 74px; border-left: solid 3px #ffffff; text-align: center; }
+.button__icon__link { display: block; text-decoration: none; width: 74px; height: 74px; }
+.button__icon__img { display: block; width: 74px; height: 74px; }
+
+.social { margin: 0; }
+.social__cell,
+.social__link,
+.social__img { width: 74px; height: 74px; }
+.social__link { display: block; }
+.social__img { display: block; opacity: .5; }
+
+.footer-text { font-family: Montserrat, Verdana, Geneva, sans-serif; font-size: 16px; line-height: 25px; letter-spacing: .04em; color: #ffffff; }
+
+
+
