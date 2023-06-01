@@ -27,9 +27,13 @@
 .button__icon { height: 74px; vertical-align: middle; }
 .button__text { text-align: left; font-family: Montserrat, Verdana, Geneva, sans-serif; color: #ffffff; font-size: 14px; line-height: 20px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
 .button__text__link { display: block; height: 60px; color: #ffffff; text-decoration: none; padding-top: 14px; padding-left: 20px; }
+.button__text__link-single-line { display: block; color: #ffffff; text-decoration: none; padding-left: 20px; }
 .button__icon { width: 74px; border-left: solid 3px #ffffff; text-align: center; }
 .button__icon__link { display: block; text-decoration: none; width: 74px; height: 74px; }
 .button__icon__img { display: block; width: 74px; height: 74px; }
+
+.promo-code { width: 380px; margin: 0 auto; background-color: #272727; }
+.promo-code__text { height: 74px; vertical-align: middle; text-align: center; color: #a422ff; font-family: Montserrat, Verdana, Geneva, sans-serif; font-size: 40px; line-height: 40px; font-weight: 700; }
 
 .button-lime { width: 380px; margin: 0 auto; background-color: #d7ff1c; }
 .button-lime__text__link { display: block; height: 49px; text-decoration: none; padding-top: 25px; padding-left: 30px; color: #000; font-size: 24px; line-height: 24px; }
@@ -40,6 +44,3 @@
 .button-purple__icon { width: 74px; border-left: solid 3px #ffffff; text-align: center; }
 
 .footer-text { font-family: Montserrat, Verdana, Geneva, sans-serif; font-size: 16px; line-height: 25px; letter-spacing: .04em; color: #ffffff; }
-
-
-
